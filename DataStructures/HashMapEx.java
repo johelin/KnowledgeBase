@@ -12,6 +12,7 @@ public class HashMapEx {
         System.out.println(user.replace("Elin", "Laid Off"));
         System.out.println(user);
         
+        
     }
 }
 
